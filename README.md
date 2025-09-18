@@ -1,4 +1,6 @@
-# foliate-js
+# @triabin/foliate-js
+
+I forked this from [johnfactotum/foliate-js](https://github.com/johnfactotum/foliate-js) and modified it to fit my needs.
 
 Library for rendering e-books in the browser.
 
